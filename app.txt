@@ -1,1 +1,14 @@
 Hey lets start the first basic hello world in DO101!!
+Requirements:
+1.Vs-Code
+2.Nodejs
+>>Create a workspace -First_project
+>>Create a folder-hello
+>>Create a file -app.js
+First app:
+
+console.log("Hello World\n");
+
+Run the file in the terminal and we can see the output:
+
+>>Output:Hello World
